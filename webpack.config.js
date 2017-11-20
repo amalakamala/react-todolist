@@ -23,7 +23,7 @@ const config = {
 
   // establecemos el output
   output: {
-    filename: 'page.js',
+    filename: '.page.js',
     path: resolve(__dirname, 'build'),
     publicPath: '/',
   },
